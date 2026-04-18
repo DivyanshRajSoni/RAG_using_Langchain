@@ -1,4 +1,4 @@
-# RAG using Langchain
+# LangChain RAG Engine with OpenAI GPT, ChromaDB, and Sentence Transformers
 
 A complete **Retrieval-Augmented Generation (RAG)** pipeline implementation using LangChain, enabling intelligent document retrieval and LLM-powered question answering.
 
